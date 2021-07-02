@@ -21,4 +21,5 @@ Werkzeug==1.0.1
 transformers
 youtube_transcript_api
 flask_cors
+torch==1.9.0+cpu
 gunicorn
